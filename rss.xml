@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[planb.moscow]]></title>
         <description><![CDATA[planb.moscow]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/planb-moscow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 19:15:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 19:38:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/planb-moscow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0736272f-3234-4270-beb7-809f9b4a9cdb.jpg">]]></description>
-            <link>undefinedluchshee-chto-est-v-dzhinsovom-mire-eto-yaponskij-denim-poe/index.html</link>
+            <link>https://thegrid.ai/planb-moscow/luchshee-chto-est-v-dzhinsovom-mire-eto-yaponskij-denim-poe/index.html</link>
             <guid isPermaLink="false">4e54b9e9-eef7-4055-86f4-01ff8b35f843</guid>
-            <pubDate>Mon, 09 May 2016 19:15:19 GMT</pubDate>
+            <pubDate>Mon, 09 May 2016 19:38:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
