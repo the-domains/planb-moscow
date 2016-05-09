@@ -1,6 +1,6 @@
 name: planb.moscow
 favicon: null
-layout_spectrum: 0.5551102042663842
+layout_spectrum: 0.51536
 typography_spectrum: 0.6462604489643127
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.13925645360723138
+    - '#000000'
+    - '#2c2e2b'
+    - '#666256'
+    - '#888983'
+    - '#a9aeaa'
+  brandStrength: 0.5
   lightness: 0.8861153761390597
-  saturation: 0.572734884917736
-  rhythmicContrast: 0.4464777654502541
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
