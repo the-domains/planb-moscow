@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '"Лучшее, что есть в джинсовом мире – это японский деним. Поэтому я решил в первую очередь смотреть японских производителей. В отличие от итальянских производителей денима, которые говорят: «Да, конечно, приезжайте. Мы продадим что угодно, сколько вам нужно?», японцы отвечают иначе: «Стоп, вы кто? Что у вас за бренд?». И мне приходилось писать им историю бренда Plan B, которому два дня: что мы делаем и на кого ориентируемся. Получив такой рассказ, они могли ответить либо «Ладно, вы достойны», либо «Мы с вами работать не будем». Моя история каким-то образом сработала, и Kaihara прислали мне образцы материалов..."'
-datePublished: '2016-05-09T19:15:19.576Z'
-dateModified: '2016-05-09T19:15:08.028Z'
+datePublished: '2016-05-09T19:38:41.383Z'
+dateModified: '2016-05-09T19:15:28.524Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-09-luchshee-chto-est-v-dzhinsovom-mire-eto-yaponskij-denim-poe.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-09-luchshee-chto-est-v-dzhinsovom-mire-eto-yaponskij-denim-poe.md
 url: luchshee-chto-est-v-dzhinsovom-mire-eto-yaponskij-denim-poe/index.html
 _type: Article
 
